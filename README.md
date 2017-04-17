@@ -11,7 +11,6 @@ Create a new webpage on a subject that you're interested in (maybe the same topi
   - Proper use of the semantic HTML tags we discussed.
   - Research the `:first-child` pseudo-class and use it to style the first article so that it stands out from the others.
   - Use this website [Lorem Ipsum](http://www.lipsum.com/) to generate random blocks of contents to fill your website.
-  - **Add your website to Github and expose it on github.io like we did in week 0 for the  **
   - Make your website look as close as possible as this layout (there are things we didn't cover yet, such as layout of the right and left side, but consider that an optional challenge if you want one)
 
   <a href="https://github.com/Code-Your-Future/HTML-CSS/blob/master/blog.png" target="blank">
