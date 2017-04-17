@@ -1,9 +1,10 @@
 # html-css-project
 
+First step is to fork this repo into your own Github account - if you don't remember how, then refer back Lesson0 contents.
 
 ## For Week 1
 
-Create a new webpage on a subject that you're interested in (maybe the same topic you used for your Codepen submission). The page should not use any framework like Bootstrap and it should include the following elements:
+Create a new webpage on a subject that you're interested in (maybe the same topic you used for your Codepen submission). The page should **NOT** use any framework like Bootstrap and it should include the following elements:
   - The `.html` page and a linked `.css` file applies a consistent color scheme to links and text on your page.
   - A page header with a title and description for the site.
   - An articles section with three articles, each including a title, summary and a link.
@@ -16,6 +17,7 @@ Create a new webpage on a subject that you're interested in (maybe the same topi
   <a href="https://github.com/Code-Your-Future/HTML-CSS/blob/master/blog.png" target="blank">
     <img src="https://github.com/Code-Your-Future/HTML-CSS/blob/master/blog.png" style="border: 1px solid #bababa;">
   </a>
+  - **Commit often (with good meaningful commit messages), and Push to Github regularly.**
   
   
   ## For Week 2
