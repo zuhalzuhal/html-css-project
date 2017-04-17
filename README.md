@@ -14,8 +14,8 @@ Create a new webpage on a subject that you're interested in (maybe the same topi
   - **Commit often (with good meaningful commit messages), and Push to Github regularly.**
   - Make your website look as close as possible as this layout (there are things we didn't cover yet, such as layout of the right and left side, but consider that an optional challenge if you want one)
 
-  <a href="https://github.com/Code-Your-Future/HTML-CSS/blob/master/blog.png" target="blank">
-    <img src="https://github.com/Code-Your-Future/HTML-CSS/blob/master/blog.png" style="border: 1px solid #bababa;">
+  <a href="blog-sketch.png" target="blank">
+    <img src="blog-sketch.png" style="border: 1px solid #bababa;">
   </a>
   
 
