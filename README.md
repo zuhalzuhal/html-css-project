@@ -18,13 +18,14 @@ Create a new webpage on a subject that you're interested in (maybe the same topi
     <img src="https://github.com/Code-Your-Future/HTML-CSS/blob/master/blog.png" style="border: 1px solid #bababa;">
   </a>
   
-  
-  ## For Week 2
+
+## For Week 2
 
 Revisit the webpage you created in last week's homework assignment. Add a sidebar to your site and move the site description into it. This should appear below the articles on small screens, then switch to a two-column layout with the articles and sidebar sitting side-by-side. Add at least three more articles and then convert them to a grid, so that you show 3 articles per row in a box layout.
 
 - Research mobile-first, how would your HTML/CSS have been different if you followed a mobile-first approach?
 
-  ## For Week 3
+## For Week 3
   - Explore how we name our classes and elements
-  - Use a framework to implement the same site and compare
+  - Create a new Branch called bootstrap-site, and use a framework to implement the same site and compare
+  (Learn about Branching here - https://guides.github.com/introduction/flow/)
