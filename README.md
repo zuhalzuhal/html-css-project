@@ -1,4 +1,4 @@
-# html-css-project
+# HTML/CSS Project
 
 First step is to fork this repo into your own Github account - if you don't remember how, then refer back Lesson0 contents.
 
