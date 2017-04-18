@@ -19,6 +19,8 @@ Create a new webpage on a subject that you're interested in (maybe the same topi
     <img src="blog-sketch.png" style="border: 1px solid #bababa;">
   </a>
   
+ **Please note that this is just a sketch - you can choose the colours, fonts and images that you want to use in the page.**
+  
 
 ## For Week 2
 
