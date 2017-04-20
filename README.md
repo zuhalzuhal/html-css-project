@@ -13,13 +13,11 @@ Create a new webpage on a subject that you're interested in (maybe the same topi
   - Research the `:first-child` pseudo-class and use it to style the first article so that it stands out from the others.
   - Use this website [Lorem Ipsum](http://www.lipsum.com/) to generate random blocks of contents to fill your website.
   - **Commit often (with good meaningful commit messages), and Push to Github regularly.**
-  - Make your website look as close as possible as this layout (there are things we didn't cover yet, such as layout of the right and left side, but consider that an optional challenge if you want one)
-  - *Please note that this is just a sketch - you can choose the colours, fonts and images that you want to use in the page.*
+  - Use the sketch below to guide you towards the layout and content you are trying to achieve. *Please note that this is just a sketch - you can choose the colours, fonts and images that you want to use in the page.*
 
-  <a href="blog-sketch.png" target="blank">
-    <img src="blog-sketch.png" style="border: 1px solid #bababa;">
+  <a href="blog-sketch-week-1.png" target="blank">
+    <img src="blog-sketch-week-1.png" style="border: 1px solid #bababa;">
   </a>
-  
   
 
 ## For Week 2
@@ -27,6 +25,10 @@ Create a new webpage on a subject that you're interested in (maybe the same topi
 Revisit the webpage you created in last week's homework assignment. Add a sidebar to your site and move the site description into it. This should appear below the articles on small screens, then switch to a two-column layout with the articles and sidebar sitting side-by-side. Add at least three more articles and then convert them to a grid, so that you show 3 articles per row in a box layout.
 
 - Research mobile-first, how would your HTML/CSS have been different if you followed a mobile-first approach?
+
+  <a href="blog-sketch-week-2.png" target="blank">
+    <img src="blog-sketch-week-2.png" style="border: 1px solid #bababa;">
+  </a>
 
 ## For Week 3
   - Explore how we name our classes and elements
