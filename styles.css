@@ -1,4 +1,85 @@
-p {
-    border-style: dotted;
+html {
+    font-size: 10px;
+    background-color: #aad9cd;
+     }
+   
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Tahoma", "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+    font-size: 15px;
+    line-height: 2.0;
+    text-align: center;
+    color: #111;
+    margin: 0;
+    }
+  
+  h1 {
+    font-size: 70px;
+   margin-top: 100px;
+    margin-bottom: 100px;
+    color: #573636; 
+    border-radius: 40px;
+    border: 10px solid;
+    background-color: pink;
+    
+    }
+  
+  a {
+    color: blue;
+  }
+  
+  a:link {
+    text-decoration: none;
+  }
+    
+  a:hover {
     color: red;
-}
+  }
+  
+  p {
+    font-size: 30px;
+    background-color: pink;
+    color: #906e74;
+    border-radius: 40px;
+    border: 10px solid;
+  }
+  
+  h2 {
+    color: #4382bb;
+    font-size: 30px;
+    border: 5px solid;
+    border-radius: 40px;
+    background-color: pink;
+    margin-top: 100px;
+    }
+  
+  ul {
+    text-align: left;
+    color: #4382bb;
+    font-size: 25px;
+    list-style-type: square;
+  }
+  
+  #img-caption {
+    color: green;
+  }
+  
+  #img-div {
+    border: 5px solid #4382bb;
+    padding: 20px;
+    border-radius: 40px;
+    background-color: pink;
+  }
+  
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  article:first-child {
+      border-style: double;
+      border-color: #111;
+      border-radius: 15px;
+      border-width: 10px;
+
+  }
