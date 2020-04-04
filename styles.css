@@ -14,7 +14,7 @@ html {
   
   h1 {
     font-size: 70px;
-   margin-top: 100px;
+    margin-top: 100px;
     margin-bottom: 100px;
     color: #573636; 
     border-radius: 40px;
@@ -59,11 +59,11 @@ html {
     list-style-type: square;
   }
   
-  #img-caption {
+  .img-caption {
     color: green;
   }
   
-  #img-div {
+  .img-div {
     border: 5px solid #4382bb;
     padding: 20px;
     border-radius: 40px;
