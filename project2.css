@@ -19,14 +19,11 @@
     color: #45625d;
    background-color: #a3d2d5
   }
-  footer{
-  grid-area: footer;
-  }
-
   
   .footer {
     background-color:  #7ec384;
     color: #3f7856;
+    grid-area: footer;
   }
   
   
@@ -49,7 +46,7 @@
   .article-five {
     grid-area: five;
   }
-  article-six {
+  .article-six {
     grid-area: six;
   }
   .site-wrapper {
