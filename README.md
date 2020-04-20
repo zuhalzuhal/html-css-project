@@ -35,9 +35,3 @@ Revisit the webpage you created in last week's homework assignment. Add a sideba
   - Create a new Branch called bootstrap-site, and use a framework to implement the same site and compare
   (Learn about Branching here - https://guides.github.com/introduction/flow/)
 
-Fahrenheit 451
-Animal Farm
-The Tale of two Cities
-The Little Prince
-Dorian Grey`s Portrait
-Lord of the Rings
