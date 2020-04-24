@@ -1,68 +1,61 @@
 .title {
-    border-style: double;
-    border-width: 4px  ;
-   background-color:  mediumseagreen;
-    
+  border-style: double;
+  border-width: 4px;
+  background-color: mediumseagreen;
 }
 
 .site-wrapper {
-  
-    background-color: mediumturquoise;
-    text-align: center;
-
+  background-color: mediumturquoise;
+  text-align: center;
 }
 aside {
-    background-color: peru;
-    font-size: 13px;
+  background-color: peru;
+  font-size: 13px;
 }
 
 footer {
-    
-    background-color: olivedrab;
-    font-size: 10px;
+  background-color: olivedrab;
+  font-size: 10px;
 }
 
 @media screen and (min-width: 300px) {
-.site-wrapper { 
+  .site-wrapper {
     display: flex;
     flex-direction: column;
-}
-.sidebar-main {
+  }
+  .sidebar-main {
     display: flex;
     flex-direction: column-reverse;
+  }
 }
-}
-
 
 @media only screen and (min-width: 700px) {
-
-.sidebar-main {
+  .sidebar-main {
     display: flex;
     flex-direction: row;
-}
-.sidebar {
+  }
+  .sidebar {
     flex: 1;
-}
-.main {
+  }
+  .main {
     flex: 10;
-}
+  }
 }
 
 @media only screen and (min-width: 900px) {
-  
-.sidebar {
-    flex:1;
+  .sidebar {
+    flex: 1;
     order: 1;
-}
-.main {
-        flex: 10;
-}
-.main {
+  }
+  .main {
+    flex: 10;
+  }
+  .main {
     display: flex;
     flex-wrap: wrap;
-}
- 
-article {
-     width: 390px;
- }
+  }
+
+  article {
+    width: 390px;
+  }
 }
